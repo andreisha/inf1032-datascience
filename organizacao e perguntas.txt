@@ -37,9 +37,8 @@ PERGUNTAS FINAIS
 REPARTICAO DAS TAREFAS
 
 1 / Lendo os dados : Andrea
-2 / Preparando dados para analise :
-3 / Dados numericos :
-4 / Dados categoricos : 
+2 / Dados numericos :
+3 / Dados categoricos : 
 Pergunta 1 : 
 Pergunta 2 : 
 Pergunta 3 : 
