@@ -5,7 +5,7 @@ IDEIAS
 2 / Quantos casos de violência de gênero são relatados por mês / ano ? +
 3 / Existe uma correlação entre numero de leis passadas para favorizar a igualdade de gênero e os casos de violência de gênero ? +
 4 / Quando foi dado o direito de voto para as mulheres em cada pais do mundo ?
-5 / Qual a quantidade de adolescentes grávidas em cada país? 
+5 / Qual a quantidade de adolescentes grávidas em cada país? +
 6 / Existe correlação entre a quantidade de adolescentes grávidas e leis em prol da mulher? +
 7 / Qual a quantidade de crianças casada em cada país? 
 8 / Existe correlação entre a quantidade de crianças casadas e leis em prol da mulher?
