@@ -43,7 +43,7 @@ PERGUNTAS FINAIS
 REPARTICAO DAS TAREFAS
 
 1 / Lendo os dados : Andrea
-2 / Dados numericos :
+2 / Dados numericos : Jéssica
 3 / Dados categoricos : 
 Pergunta 1 : 
 Pergunta 2 : 
