@@ -45,11 +45,11 @@ REPARTICAO DAS TAREFAS
 1 / Lendo os dados : Andrea
 2 / Dados numericos : Jéssica
 3 / Dados categoricos : 
-Pergunta 1 : 
-Pergunta 2 : 
-Pergunta 3 : 
-Pergunta 4 : 
-Pergunta 5 : 
+Pergunta 1 : Qual a quantidade de adolescentes grávidas em cada país? 
+Pergunta 2 : Existe correlação entre a quantidade de adolescentes grávidas e leis em prol da mulher?
+Pergunta 3 : Como têm sido a evolução de diferença salarial entre homens e mulheres nos últimos anos, por pais ?
+Pergunta 4 : Qual a quantidade de abortos feitos em cada país?
+Pergunta 5 : Qual o nível escolar das mulheres?
 Pergunta 6 : 
 Pergunta 7 : 
 Pergunta 8 : 
