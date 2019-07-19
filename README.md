@@ -1,4 +1,4 @@
-# inf1032-datascience
+# Introduçao à Data Science
 
 Este repositorio contêm 5 projetos de introduçao à Data Science, cobrendo as areas de analise descritiva e visual, classificaçao, regresao linear e clusterizaçao, através de diferentes exemplos e datasets.
 
